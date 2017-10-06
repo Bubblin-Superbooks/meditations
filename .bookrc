@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Meditations",
-  "type": "text"
+  "type": "text",
+  "book_id": 499
 }
