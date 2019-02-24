@@ -73,7 +73,7 @@ a:active {
 .inner {
   margin: calc((100vh - (17 * (4vw * 1.5) + 4vw))/2) auto; 
   width: 85vw;
-  max-height: calc(17 * (4vw * 1.5) + 4vw);
+  height: calc(17 * (4vw * 1.5) + 4vw);
   break-after: right; 
    /*background: aliceblue; */
 }
