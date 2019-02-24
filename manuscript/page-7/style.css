@@ -1,0 +1,11 @@
+.footnote {
+  text-align: center;
+  height: 20vh;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  font-size: 3.5vw;
+}
+
+h1{   font-size: 300%; margin: 0; }
+h2 {  font-size: 150%; }
