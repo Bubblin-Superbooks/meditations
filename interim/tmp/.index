@@ -1,3 +1,15 @@
 {
-  "0": "<li><a class = \"page\" href=\"10\"> Introduction </a> <span class=\"flex\">10</span> </li>"
+  "0": "<li><a class = \"page\" href=\"42\"> Book I. </a> <span class=\"flex\">42</span> </li>",
+  "1": "<li><a class = \"page\" href=\"63\"> Book II. </a> <span class=\"flex\">63</span> </li>",
+  "2": "<li><a class = \"page\" href=\"79\"> Book III. </a> <span class=\"flex\">79</span> </li>",
+  "3": "<li><a class = \"page\" href=\"97\"> Book IV. </a> <span class=\"flex\">97</span> </li>",
+  "4": "<li><a class = \"page\" href=\"126\"> Book V. </a> <span class=\"flex\">126</span> </li>",
+  "5": "<li><a class = \"page\" href=\"154\"> Book VI. </a> <span class=\"flex\">154</span> </li>",
+  "6": "<li><a class = \"page\" href=\"183\"> Book VII. </a> <span class=\"flex\">183</span> </li>",
+  "7": "<li><a class = \"page\" href=\"213\"> Book VIII. </a> <span class=\"flex\">213</span> </li>",
+  "8": "<li><a class = \"page\" href=\"243\"> Book IX. </a> <span class=\"flex\">243</span> </li>",
+  "9": "<li><a class = \"page\" href=\"271\"> Book X. </a> <span class=\"flex\">271</span> </li>",
+  "10": "<li><a class = \"page\" href=\"299\"> Book XI. </a> <span class=\"flex\">299</span> </li>",
+  "11": "<li><a class = \"page\" href=\"323\"> Book XII. </a> <span class=\"flex\">323</span> </li>",
+  "12": "<li><a class = \"page\" href=\"343\"> THE END. </a> <span class=\"flex\">343</span> </li>"
 }
