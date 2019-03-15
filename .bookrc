@@ -5,6 +5,7 @@
     "JS": "js",
     "HEAD": "html"
   },
+  "has_page_numbers": true,
   "name": "Meditations",
   "type": "text",
   "book_id": 499
