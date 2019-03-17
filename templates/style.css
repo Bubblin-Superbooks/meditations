@@ -90,12 +90,8 @@ a:active {
 }
 
 p {
-    text-indent: 5vw;  
+    text-indent: 5vw; 
     margin: 0 0 0 0;
-/*    -webkit-hyphens: auto;
-    -moz-hyphens: auto;
-    hyphens: auto; 
-*/
 }
 
 .no-indent {
@@ -135,7 +131,7 @@ hr::after {
 }
 
 hr::before {
-  content: "== ❖ ==";
+  content: "❧";
   color: black;
 }
 
@@ -195,4 +191,36 @@ h3 {
 
 .uppercase {
   text-transform: uppercase;  
+}
+
+
+ol {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  counter-reset: step-counter calc(var(--start) - 1);
+}
+
+ol li {
+  counter-increment: step-counter;
+}
+
+ol li::before {
+  content: counter(step-counter) ". ";
+  margin-right: 1vw;
+  color: black; 
+  font-weight: bold;
+  padding: 0.3vw 0.8vw 0.3vw 0;
+}
+
+ol li.split-li {
+}
+
+ol li.split-li::before {
+  content: '';
+  margin-right: -0.8vw;
+  background-color: rgba(255, 255, 255, 1);
+  color: black;
+  font-weight: bold;
+  padding: 0.3vw 0.8vw 0.3vw 0;
 }
